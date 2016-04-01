@@ -1,7 +1,0 @@
-C:\Users\Kang\Documents\Visual Studio 2015\Projects\remote-wiring\Microsoft.Maker.win10\Microsoft.Maker.Firmata\Microsoft.Maker.Firmata.vcxproj;x86
-C:\Users\Kang\Documents\Visual Studio 2015\Projects\remote-wiring\Microsoft.Maker.win10\Microsoft.Maker.Firmata\Microsoft.Maker.Firmata.vcxproj;x86
-C:\Users\Kang\Documents\Visual Studio 2015\Projects\remote-wiring\Microsoft.Maker.win10\Microsoft.Maker.RemoteWiring\Microsoft.Maker.RemoteWiring.vcxproj;x86
-C:\Users\Kang\Documents\Visual Studio 2015\Projects\remote-wiring\source\Serial\Microsoft.Maker.Serial.win10\Microsoft.Maker.Serial.vcxproj;x86
-C:\Users\Kang\Documents\Visual Studio 2015\Projects\remote-wiring\source\Serial\Microsoft.Maker.Serial.win10\Microsoft.Maker.Serial.vcxproj;x86
-C:\Users\Kang\Documents\Visual Studio 2015\Projects\serial-wiring\Microsoft.Maker.Serial.win10\Microsoft.Maker.Serial.vcxproj;x86
-C:\Users\Kang\Documents\Visual Studio 2015\Projects\zipper-watcher\TestApp01\ZipperWatcher.csproj;x86
